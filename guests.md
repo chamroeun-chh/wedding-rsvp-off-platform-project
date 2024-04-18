@@ -15,3 +15,5 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Anyaa             | 1 	        |
+| pico              | 1 	        |
+| gg                | 1 	        |
